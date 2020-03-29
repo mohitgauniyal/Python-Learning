@@ -1,6 +1,6 @@
 #Boolean Expressions
 
-print("Boolean Expression")
+print("Boolean Expression:")
 
 bool1 = True      #true
 bool2 = 3*3 == 9  #check its true or not
