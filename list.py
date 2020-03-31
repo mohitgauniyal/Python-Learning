@@ -8,7 +8,7 @@ print(shopping_list)
 shopping_list[1] = "MANGO" #to update the list item.
 print(shopping_list)
 print(len(shopping_list))
-list_num = [0,1,2,3,4,44,5] #new list
+list_num = [0,1,2,3,4,44,5] #new list.
 print(min(list_num)) #to print min.
 print(max(list_num)) #to print max.
 union_list = shopping_list + list_num #union of lists
