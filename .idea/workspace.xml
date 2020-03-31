@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eeae82f-c174-4308-b1d3-83f5b17804df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/DaNGeR.xml" afterDir="false" />
+    <list default="true" id="0eeae82f-c174-4308-b1d3-83f5b17804df" name="Default Changelist" comment="additional files of IDE">
+      <change afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables_and_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables_and_methods.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/variables_and_methods.py">
+        <entry file="file://$PROJECT_DIR$/Loops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+            <state relative-caret-position="242">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -48,6 +47,11 @@
         <option value="$PROJECT_DIR$/list.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/variables_and_methods.py" />
+        <option value="$PROJECT_DIR$/boolean.py" />
+        <option value="$PROJECT_DIR$/Relational_and_Boolean_Expression.py" />
+        <option value="$PROJECT_DIR$/if-else.py" />
+        <option value="$PROJECT_DIR$/Tuples.py" />
+        <option value="$PROJECT_DIR$/Loops.py" />
       </list>
     </option>
   </component>
@@ -95,8 +99,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.variables_and_methods">
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Loops">
+    <configuration name="Conditional_Statement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conditional_Statement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="placeholder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Relational_and_Boolean_Expression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +154,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/placeholder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Relational_and_Boolean_Expression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variables_and_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="if-else" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +196,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variables_and_methods.py" />
+      <option name="SCRIPT_NAME" value="D:\Git Docs\Python-Learning\Conditional_Statement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,19 +206,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.strings" />
-      <item itemvalue="Python.math" />
-      <item itemvalue="Python.placeholder" />
-      <item itemvalue="Python.list" />
-      <item itemvalue="Python.variables_and_methods" />
+      <item itemvalue="Python.Relational_and_Boolean_Expression" />
+      <item itemvalue="Python.if-else" />
+      <item itemvalue="Python.Conditional_Statement" />
+      <item itemvalue="Python.Tuples" />
+      <item itemvalue="Python.Loops" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.variables_and_methods" />
-        <item itemvalue="Python.list" />
-        <item itemvalue="Python.placeholder" />
-        <item itemvalue="Python.math" />
-        <item itemvalue="Python.strings" />
+        <item itemvalue="Python.Loops" />
+        <item itemvalue="Python.Tuples" />
+        <item itemvalue="Python.Conditional_Statement" />
+        <item itemvalue="Python.if-else" />
+        <item itemvalue="Python.Relational_and_Boolean_Expression" />
       </list>
     </recent_temporary>
   </component>
@@ -362,14 +366,84 @@
       <option name="project" value="LOCAL" />
       <updated>1585472978800</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="variables and methods">
+      <created>1585474583825</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1585474583825</updated>
+    </task>
+    <task id="LOCAL-00021" summary="additional files of IDE">
+      <created>1585474648215</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585474648215</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Boolean Expressions">
+      <created>1585498943177</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1585498943178</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Boolean Expressions">
+      <created>1585498983115</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1585498983115</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Relational and Boolean Expressions">
+      <created>1585582411371</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1585582411372</updated>
+    </task>
+    <task id="LOCAL-00025" summary="If-else">
+      <created>1585586902733</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1585586902733</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Conditional Statement">
+      <created>1585665144227</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585665144227</updated>
+    </task>
+    <task id="LOCAL-00027" summary="additional files of IDE">
+      <created>1585667437084</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585667437084</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Tuples">
+      <created>1585667540261</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585667540262</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Tuples">
+      <created>1585667627030</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1585667627030</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20758928" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19717261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -400,7 +474,13 @@
     <MESSAGE value="completed lists" />
     <MESSAGE value="completed" />
     <MESSAGE value="variables and methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="variables and methods" />
+    <MESSAGE value="Boolean Expressions" />
+    <MESSAGE value="Relational and Boolean Expressions" />
+    <MESSAGE value="If-else" />
+    <MESSAGE value="Conditional Statement" />
+    <MESSAGE value="additional files of IDE" />
+    <MESSAGE value="Tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuples" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello.py" />
@@ -449,8 +529,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/variables_and_methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+        <state relative-caret-position="164">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boolean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Relational_and_Boolean_Expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional_Statement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
