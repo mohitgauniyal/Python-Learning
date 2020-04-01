@@ -18,4 +18,8 @@ print(quote2.strip()) #clear the white spaces
 print("A" in "Apple") #check A exists in Apple(Case Sensitive)
 letter = "A"
 word = "apple"
-print(letter.lower() in word.lower())
+print(letter.lower() in word.lower()) #checks whether it is case sensitive or not.
+
+movie = "The Hangover"
+print("My favourite movie is {} but not good." .format(movie)) #print using placeholder
+print("My favourite movie is" ,movie) #print only at last.
