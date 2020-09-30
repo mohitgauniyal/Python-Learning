@@ -7,6 +7,8 @@ print(sentence.split()) #this will split the sentence in list.
 sentence_split = sentence.split()  #stored in variable
 sentence_join = ' '.join(sentence_split) #joined the splited sentence
 print(sentence_join)
+print(sentence[::-1]) #this will reverse the sentence
+print(my_name[::-1] == my_name) #this will check if my_name is a pallindrome
 
 quote = "He said, 'give me all your money'" #we can put single quote in double quote.
 quote1 = "He said, \"give me all your money\"" # \" used to use ""
